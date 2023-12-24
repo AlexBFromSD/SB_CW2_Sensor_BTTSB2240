@@ -1,7 +1,7 @@
 # SB_CW2_Sensor_BTTSB2240
 CW2 Sensors with thinner frame for CANBUS so the thermistor port on the board is not blocked.
 
-**Note: Make sure that the pins for the endstop sensors are properly insulated from the back of the CANBUS board. If they touch, the magic smoke _will_ escape containment.**
+**Note: Make sure that the pins for the endstop sensors are properly insulated from the back of the CANBUS board.**
 
 SB CW2 Main Body Remixed From BTT EBB and ERCF_V2 Repos
 
