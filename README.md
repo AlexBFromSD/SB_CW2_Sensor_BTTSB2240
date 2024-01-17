@@ -6,7 +6,9 @@ CW2 Sensors with thinner frame for CANBUS so the thermistor port on the board is
 
 
 SB CW2 Main Body Remixed From BTT EBB and ERCF_V2 Repos
+
 StealthburnerEBB_SB_FilamentSensor was remixed from the cad in /Recommended_Options/Toolhead_Modifications/CAD
+
 Toolhead_And_Entry_Sensors_SB_CW2_Body was remixed from the STL in /Recommended_Options/Toolhead_Modifications/Stls/1_Toolhead_And_Entry_Sensors 
 
  - [BTT EBB](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN/Custom%20Printed%20Parts)
